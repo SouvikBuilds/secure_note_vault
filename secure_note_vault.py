@@ -238,9 +238,7 @@ if __name__ == "__main__":
             break
                 
 
-# git remote add origin https://github.com/SouvikBuilds/secure_note_vault.git
-# git branch -M main
-# git push -u origin main
+
     
     
 
